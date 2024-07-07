@@ -1,5 +1,18 @@
 # Changelog
 
+## [19.66.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.65.0...v19.66.0) (2024-07-07)
+
+
+### Features
+
+* **add:** ZMR4 ([#7734](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7734)) ([c0cd207](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c0cd2072e0eadc345d1a48cb3432241e6a10081a))
+
+
+### Bug Fixes
+
+* **detect:** Detect `_TZ3000_ypgri8yz` as Girier ZB08 ([#7744](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7744)) ([56fc8a4](https://github.com/Koenkk/zigbee-herdsman-converters/commit/56fc8a42a1973887efa390c5d23c8a9102df8961))
+* Ignore reported battery % if battery % is computed from voltage ([#7681](https://github.com/Koenkk/zigbee-herdsman-converters/issues/7681)) ([3ffbe2f](https://github.com/Koenkk/zigbee-herdsman-converters/commit/3ffbe2f59c0becbe21bef68d452232caa51f9f25))
+
 ## [19.65.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v19.64.0...v19.65.0) (2024-07-06)
 
 
